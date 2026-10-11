@@ -1,0 +1,1 @@
+creating a DAG across all words in dictionary form to create a skeleton for akasha
